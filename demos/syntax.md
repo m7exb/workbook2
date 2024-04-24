@@ -23,4 +23,3 @@ console.log("Hello World");
 'single-quotes'
 `back-ticks`
 semiColon;
-```
